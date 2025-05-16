@@ -1,2 +1,2 @@
 # fundamentos-python
-Repositorio de Carlos Eduardo Morenoo para el curso de fundamentos de programación
+Repositorio de Carlos Eduardo Moreno para el curso de fundamentos de programación
