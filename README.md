@@ -1,2 +1,2 @@
 # fundamentos-python
-Repositorio de Erick Varela Guzmán para el curso de fundamentos de programación
+Repositorio de Carlos Eduardo Morenoo para el curso de fundamentos de programación
