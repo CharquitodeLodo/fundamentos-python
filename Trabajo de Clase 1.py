@@ -2,7 +2,7 @@
 #Clase:        Fase de Fortalecimiento Lógico 1
 #Tema:         Tipos de Variables
 #Ejercicio:    Automatizando el cálculo de la propina
-#Descripción:  Definición del ejercicio
+#Descripción:  Metes una cuenta y le agrega una propina que depende de un porcentaje
 
 #Autor:        Carlos Eduardo Moreno Díaz
 #Fecha:        2025-05-15
@@ -18,8 +18,8 @@ print(f"El total a pagar es {total_a_pagar}")
 #'''
 #Clase:        Fase de Fortalecimiento Lógico 1
 #Tema:         Tipos de Variables
-#Ejercicio:    Automatizando el cálculo de la propina
-#Descripción:  Definición del ejercicio
+#Ejercicio:    Correo Eléctronico
+#Descripción:  Metes dos nombres y te da un correo
 
 #Autor:        Carlos Eduardo Moreno Díaz
 #Fecha:        2025-05-15
